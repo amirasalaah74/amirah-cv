@@ -1,0 +1,16 @@
+h5,h6{ font-family: aBeezee;}
+    p{ font-family: cobin;}
+    h2{
+        font-family: balo;
+    }
+    .fas{
+        color:rgb(189, 183, 107);
+    }
+    .fas:hover{
+        background-color: aliceblue;
+        color:black;
+    }
+    .fab{
+       color :rgb(189, 183, 107);
+    }
+    
